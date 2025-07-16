@@ -14,7 +14,7 @@ This study proposes an unified representation that integrates the components of 
 
 **Figure #1. Unified Representation Overview**
 
-![](https://github.com/user-attachments/assets/8b69d380-a165-482e-a9d6-0ddf117357fe)
+![](https://github.com/user-attachments/assets/0cfd0436-e6e6-4adc-8072-735f15a3fa01)
 
 
 
