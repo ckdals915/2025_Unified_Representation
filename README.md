@@ -73,46 +73,46 @@ conda list
 
 ```bash
 SOFTWARE
-├─MNIST_MLP_Train.py                    # Train MLP/MLPAsGNN Model for MNIST
-├─CWRU_1DCNN_Train.py                   # Train 1DCNN/1DCNNAsGNN Model for CWRU
-├─CIFAR100_VGG11_Train.py               # Train VGG11/VGG11AsGNN Model for CIFAR100
-├─CIFAR100_ResNet18_Train.py            # Train ResNet18/ResNet18AsGNN Model for CIFAR100
-├─CIFAR100_ViT_Train.py                 # Train ViT/ViTAsGNN Model for CIFAR100
-├─Memory_Inference_Analysis.py          # Analysis GPU Memory/Inference Time 
+├─MNIST_MLP_Train.py                              # Train MLP/MLPAsGNN Model for MNIST
+├─CWRU_1DCNN_Train.py                             # Train 1DCNN/1DCNNAsGNN Model for CWRU
+├─CIFAR100_VGG11_Train.py                         # Train VGG11/VGG11AsGNN Model for CIFAR100
+├─CIFAR100_ResNet18_Train.py                      # Train ResNet18/ResNet18AsGNN Model for CIFAR100
+├─CIFAR100_ViT_Train.py                           # Train ViT/ViTAsGNN Model for CIFAR100
+├─Memory_Inference_Analysis.py                    # Analysis GPU Memory/Inference Time 
 │
 ├─modules
 │  │  __init__.py
-│  │  MLPAsGNN.py                       # Linear to Message-Passing
-│  │  ConvAsGNN.py                      # Conv1D/Conv2D to Message-Passing
-│  │  PoolingAsGNN.py                   # Avg/MaxPooling to Message-Passing
-│  └─ MultiHeadSelfAttentionAsGNN.py    # Transformer to Message-Passing
+│  │  MLPAsGNN.py                                 # Linear to Message-Passing
+│  │  ConvAsGNN.py                                # Conv1D/Conv2D to Message-Passing
+│  │  PoolingAsGNN.py                             # Avg/MaxPooling to Message-Passing
+│  └─ MultiHeadSelfAttentionAsGNN.py              # Transformer to Message-Passing
 │
 ├─models
 │  │  __init__.py
-│  │  MNIST_MLP.py                      # MLP Custom Model for MNIST
-│  │  CWRU_1DCNN.py                     # 1D-CNN Custom Model for CWRU
-│  │  CIFAR100_VGG.py                   # VGG11 Model for CIFAR100
-│  │  CIFAR100_ResNet18.py              # ResNet18 Model for CIFAR100
-│  └─ CIFAR100_ViT.py                   # ViT Model for CIFAR100
+│  │  MNIST_MLP.py                                # MLP Custom Model for MNIST
+│  │  CWRU_1DCNN.py                               # 1D-CNN Custom Model for CWRU
+│  │  CIFAR100_VGG.py                             # VGG11 Model for CIFAR100
+│  │  CIFAR100_ResNet18.py                        # ResNet18 Model for CIFAR100
+│  └─ CIFAR100_ViT.py                             # ViT Model for CIFAR100
 │
 ├─utils
 │   │  __init__.py
-│   │  CWRU_Data_Preprocessing.py       # Convert CWRU Raw Data(*.mat) to NumPy(*.npy)
-│   │  DataLoader_GNN.py                # MNIST, CWRU, CIFAR100 DataLoader
-│   │  Log_GNN.py                       # Logging Function about Train
-│   └─ Train_Test.py                    # Train/Evaluation/Test Function
+│   │  CWRU_Data_Preprocessing.py                 # Convert CWRU Raw Data(*.mat) to NumPy(*.npy)
+│   │  DataLoader_GNN.py                          # MNIST, CWRU, CIFAR100 DataLoader
+│   │  Log_GNN.py                                 # Logging Function about Train
+│   └─ Train_Test.py                              # Train/Evaluation/Test Function
 │
-├─data                                  # Dataset(MNIST,CWRU,CIFAR100)
+├─data                                            # Dataset(MNIST,CWRU,CIFAR100)
 │  ├─MNIST
 │  ├─CWRU
 │  └─cifar-100-python
 │
-├─checkpoint                            # Checkpoint Models
+├─checkpoint                                      # Checkpoint Models
 │  │  SEED0_CNN1DCWRUAsGNN_CWRU_lr5e-05_best.pth
 │  │  ...
 │  └─최종결과_250701
 │
-└─log                                   # Log Train Result(*.txt)
+└─log                                             # Log Train Result(*.txt)
    │  SEED0_MLPAsGNNMNIST_bs128.txt 
    │  ...
    └─ 최종결과_250701
