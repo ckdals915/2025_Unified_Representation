@@ -202,6 +202,10 @@ $ python -m MNIST_MLP_Train
 ##### 2) CWRU 1D-CNN Model Training
 
 ```bash
+# CWRU Data Pre-Processing
+$ python -m utils.CWRU_Data_Preprocessing
+
+# CWRU 1D-CNN Model Training
 $ python -m CWRU_1DCNN_Train
 ```
 

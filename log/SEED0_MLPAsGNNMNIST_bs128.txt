@@ -1,0 +1,24 @@
+Epoch: 1
+Dataset: MNIST
+Batch size: 128
+Train Loss: 2.2951, Train Acc: 0.1298
+Val   Loss: 2.2862, Val   Acc: 0.1737
+Train Time: 00:00:14
+Test  Time: 00:00:12
+----------------------------------------
+Epoch: 1
+Dataset: MNIST
+Batch size: 128
+Train Loss: 2.2951, Train Acc: 0.1298
+Val   Loss: 2.2862, Val   Acc: 0.1737
+Train Time: 00:00:08
+Test  Time: 00:00:07
+----------------------------------------
+Epoch: 1
+Dataset: MNIST
+Batch size: 128
+Train Loss: 2.2951, Train Acc: 0.1298
+Val   Loss: 2.2862, Val   Acc: 0.1737
+Train Time: 00:00:09
+Test  Time: 00:00:08
+----------------------------------------

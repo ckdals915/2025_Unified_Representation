@@ -1,0 +1,800 @@
+Epoch: 1
+Dataset: MNIST
+Batch size: 128
+Train Loss: 2.3037, Train Acc: 0.0916
+Val   Loss: 2.2974, Val   Acc: 0.0986
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 2
+Dataset: MNIST
+Batch size: 128
+Train Loss: 2.2900, Train Acc: 0.1424
+Val   Loss: 2.2831, Val   Acc: 0.1911
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 3
+Dataset: MNIST
+Batch size: 128
+Train Loss: 2.2747, Train Acc: 0.2284
+Val   Loss: 2.2661, Val   Acc: 0.2690
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 4
+Dataset: MNIST
+Batch size: 128
+Train Loss: 2.2561, Train Acc: 0.3046
+Val   Loss: 2.2451, Val   Acc: 0.3436
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 5
+Dataset: MNIST
+Batch size: 128
+Train Loss: 2.2331, Train Acc: 0.3642
+Val   Loss: 2.2191, Val   Acc: 0.3865
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 6
+Dataset: MNIST
+Batch size: 128
+Train Loss: 2.2044, Train Acc: 0.3949
+Val   Loss: 2.1863, Val   Acc: 0.4103
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 7
+Dataset: MNIST
+Batch size: 128
+Train Loss: 2.1681, Train Acc: 0.4247
+Val   Loss: 2.1448, Val   Acc: 0.4392
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 8
+Dataset: MNIST
+Batch size: 128
+Train Loss: 2.1219, Train Acc: 0.4584
+Val   Loss: 2.0918, Val   Acc: 0.4767
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 9
+Dataset: MNIST
+Batch size: 128
+Train Loss: 2.0631, Train Acc: 0.4940
+Val   Loss: 2.0246, Val   Acc: 0.5151
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 10
+Dataset: MNIST
+Batch size: 128
+Train Loss: 1.9891, Train Acc: 0.5347
+Val   Loss: 1.9406, Val   Acc: 0.5598
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 11
+Dataset: MNIST
+Batch size: 128
+Train Loss: 1.8978, Train Acc: 0.5765
+Val   Loss: 1.8381, Val   Acc: 0.5996
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 12
+Dataset: MNIST
+Batch size: 128
+Train Loss: 1.7880, Train Acc: 0.6149
+Val   Loss: 1.7166, Val   Acc: 0.6341
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 13
+Dataset: MNIST
+Batch size: 128
+Train Loss: 1.6608, Train Acc: 0.6502
+Val   Loss: 1.5790, Val   Acc: 0.6679
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 14
+Dataset: MNIST
+Batch size: 128
+Train Loss: 1.5212, Train Acc: 0.6786
+Val   Loss: 1.4336, Val   Acc: 0.6970
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 15
+Dataset: MNIST
+Batch size: 128
+Train Loss: 1.3791, Train Acc: 0.7064
+Val   Loss: 1.2916, Val   Acc: 0.7259
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 16
+Dataset: MNIST
+Batch size: 128
+Train Loss: 1.2444, Train Acc: 0.7338
+Val   Loss: 1.1621, Val   Acc: 0.7478
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 17
+Dataset: MNIST
+Batch size: 128
+Train Loss: 1.1243, Train Acc: 0.7556
+Val   Loss: 1.0498, Val   Acc: 0.7693
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 18
+Dataset: MNIST
+Batch size: 128
+Train Loss: 1.0212, Train Acc: 0.7735
+Val   Loss: 0.9553, Val   Acc: 0.7875
+Train Time: 00:00:04
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 19
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.9348, Train Acc: 0.7892
+Val   Loss: 0.8769, Val   Acc: 0.7988
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 20
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.8632, Train Acc: 0.8003
+Val   Loss: 0.8124, Val   Acc: 0.8116
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 21
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.8037, Train Acc: 0.8109
+Val   Loss: 0.7585, Val   Acc: 0.8200
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 22
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.7541, Train Acc: 0.8196
+Val   Loss: 0.7136, Val   Acc: 0.8273
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 23
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.7122, Train Acc: 0.8261
+Val   Loss: 0.6753, Val   Acc: 0.8340
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 24
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.6766, Train Acc: 0.8325
+Val   Loss: 0.6431, Val   Acc: 0.8401
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 25
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.6459, Train Acc: 0.8378
+Val   Loss: 0.6149, Val   Acc: 0.8437
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 26
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.6194, Train Acc: 0.8433
+Val   Loss: 0.5900, Val   Acc: 0.8487
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 27
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.5960, Train Acc: 0.8477
+Val   Loss: 0.5681, Val   Acc: 0.8522
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 28
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.5754, Train Acc: 0.8520
+Val   Loss: 0.5487, Val   Acc: 0.8577
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 29
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.5570, Train Acc: 0.8550
+Val   Loss: 0.5315, Val   Acc: 0.8619
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 30
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.5406, Train Acc: 0.8589
+Val   Loss: 0.5161, Val   Acc: 0.8648
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 31
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.5258, Train Acc: 0.8615
+Val   Loss: 0.5021, Val   Acc: 0.8674
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 32
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.5124, Train Acc: 0.8647
+Val   Loss: 0.4896, Val   Acc: 0.8709
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 33
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.5003, Train Acc: 0.8667
+Val   Loss: 0.4778, Val   Acc: 0.8734
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 34
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.4892, Train Acc: 0.8693
+Val   Loss: 0.4676, Val   Acc: 0.8753
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 35
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.4790, Train Acc: 0.8710
+Val   Loss: 0.4579, Val   Acc: 0.8774
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 36
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.4696, Train Acc: 0.8731
+Val   Loss: 0.4485, Val   Acc: 0.8808
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 37
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.4610, Train Acc: 0.8748
+Val   Loss: 0.4404, Val   Acc: 0.8825
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 38
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.4530, Train Acc: 0.8761
+Val   Loss: 0.4331, Val   Acc: 0.8833
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 39
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.4456, Train Acc: 0.8782
+Val   Loss: 0.4257, Val   Acc: 0.8851
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 40
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.4386, Train Acc: 0.8798
+Val   Loss: 0.4192, Val   Acc: 0.8861
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 41
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.4321, Train Acc: 0.8812
+Val   Loss: 0.4131, Val   Acc: 0.8872
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 42
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.4261, Train Acc: 0.8823
+Val   Loss: 0.4071, Val   Acc: 0.8889
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 43
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.4204, Train Acc: 0.8838
+Val   Loss: 0.4018, Val   Acc: 0.8899
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 44
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.4151, Train Acc: 0.8850
+Val   Loss: 0.3969, Val   Acc: 0.8909
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 45
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.4101, Train Acc: 0.8861
+Val   Loss: 0.3918, Val   Acc: 0.8918
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 46
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.4054, Train Acc: 0.8871
+Val   Loss: 0.3873, Val   Acc: 0.8920
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 47
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.4009, Train Acc: 0.8884
+Val   Loss: 0.3831, Val   Acc: 0.8930
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 48
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3966, Train Acc: 0.8892
+Val   Loss: 0.3791, Val   Acc: 0.8945
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 49
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3925, Train Acc: 0.8906
+Val   Loss: 0.3751, Val   Acc: 0.8945
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 50
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3887, Train Acc: 0.8919
+Val   Loss: 0.3719, Val   Acc: 0.8946
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 51
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3851, Train Acc: 0.8927
+Val   Loss: 0.3683, Val   Acc: 0.8957
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 52
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3815, Train Acc: 0.8931
+Val   Loss: 0.3647, Val   Acc: 0.8957
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 53
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3782, Train Acc: 0.8945
+Val   Loss: 0.3614, Val   Acc: 0.8970
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 54
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3750, Train Acc: 0.8950
+Val   Loss: 0.3584, Val   Acc: 0.8978
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 55
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3718, Train Acc: 0.8960
+Val   Loss: 0.3555, Val   Acc: 0.8980
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 56
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3689, Train Acc: 0.8961
+Val   Loss: 0.3530, Val   Acc: 0.8985
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 57
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3661, Train Acc: 0.8970
+Val   Loss: 0.3502, Val   Acc: 0.8996
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 58
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3633, Train Acc: 0.8977
+Val   Loss: 0.3478, Val   Acc: 0.9003
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 59
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3606, Train Acc: 0.8984
+Val   Loss: 0.3450, Val   Acc: 0.9003
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 60
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3581, Train Acc: 0.8992
+Val   Loss: 0.3426, Val   Acc: 0.9013
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 61
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3556, Train Acc: 0.8998
+Val   Loss: 0.3403, Val   Acc: 0.9011
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 62
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3532, Train Acc: 0.9003
+Val   Loss: 0.3379, Val   Acc: 0.9021
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 63
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3509, Train Acc: 0.9009
+Val   Loss: 0.3360, Val   Acc: 0.9039
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 64
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3486, Train Acc: 0.9015
+Val   Loss: 0.3337, Val   Acc: 0.9032
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 65
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3465, Train Acc: 0.9021
+Val   Loss: 0.3317, Val   Acc: 0.9042
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 66
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3443, Train Acc: 0.9025
+Val   Loss: 0.3298, Val   Acc: 0.9054
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 67
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3423, Train Acc: 0.9032
+Val   Loss: 0.3278, Val   Acc: 0.9059
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 68
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3403, Train Acc: 0.9037
+Val   Loss: 0.3257, Val   Acc: 0.9072
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 69
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3383, Train Acc: 0.9043
+Val   Loss: 0.3240, Val   Acc: 0.9072
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 70
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3364, Train Acc: 0.9047
+Val   Loss: 0.3224, Val   Acc: 0.9080
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 71
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3345, Train Acc: 0.9051
+Val   Loss: 0.3206, Val   Acc: 0.9079
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 72
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3327, Train Acc: 0.9056
+Val   Loss: 0.3188, Val   Acc: 0.9093
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 73
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3310, Train Acc: 0.9060
+Val   Loss: 0.3171, Val   Acc: 0.9083
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 74
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3292, Train Acc: 0.9065
+Val   Loss: 0.3153, Val   Acc: 0.9097
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 75
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3275, Train Acc: 0.9072
+Val   Loss: 0.3141, Val   Acc: 0.9100
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 76
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3259, Train Acc: 0.9075
+Val   Loss: 0.3127, Val   Acc: 0.9099
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 77
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3243, Train Acc: 0.9082
+Val   Loss: 0.3107, Val   Acc: 0.9101
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 78
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3227, Train Acc: 0.9084
+Val   Loss: 0.3091, Val   Acc: 0.9108
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 79
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3211, Train Acc: 0.9087
+Val   Loss: 0.3080, Val   Acc: 0.9113
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 80
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3196, Train Acc: 0.9093
+Val   Loss: 0.3065, Val   Acc: 0.9119
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 81
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3180, Train Acc: 0.9094
+Val   Loss: 0.3051, Val   Acc: 0.9120
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 82
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3165, Train Acc: 0.9099
+Val   Loss: 0.3035, Val   Acc: 0.9128
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 83
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3151, Train Acc: 0.9105
+Val   Loss: 0.3022, Val   Acc: 0.9133
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 84
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3136, Train Acc: 0.9107
+Val   Loss: 0.3012, Val   Acc: 0.9134
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 85
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3123, Train Acc: 0.9111
+Val   Loss: 0.2998, Val   Acc: 0.9147
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 86
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3109, Train Acc: 0.9115
+Val   Loss: 0.2984, Val   Acc: 0.9152
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 87
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3095, Train Acc: 0.9119
+Val   Loss: 0.2976, Val   Acc: 0.9143
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 88
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3082, Train Acc: 0.9119
+Val   Loss: 0.2959, Val   Acc: 0.9157
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 89
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3069, Train Acc: 0.9123
+Val   Loss: 0.2949, Val   Acc: 0.9160
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 90
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3056, Train Acc: 0.9127
+Val   Loss: 0.2936, Val   Acc: 0.9163
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 91
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3043, Train Acc: 0.9127
+Val   Loss: 0.2922, Val   Acc: 0.9167
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 92
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3030, Train Acc: 0.9131
+Val   Loss: 0.2914, Val   Acc: 0.9169
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 93
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3017, Train Acc: 0.9136
+Val   Loss: 0.2902, Val   Acc: 0.9167
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 94
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.3005, Train Acc: 0.9139
+Val   Loss: 0.2891, Val   Acc: 0.9177
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 95
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.2994, Train Acc: 0.9142
+Val   Loss: 0.2877, Val   Acc: 0.9181
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 96
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.2981, Train Acc: 0.9146
+Val   Loss: 0.2870, Val   Acc: 0.9175
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 97
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.2969, Train Acc: 0.9149
+Val   Loss: 0.2859, Val   Acc: 0.9174
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 98
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.2958, Train Acc: 0.9152
+Val   Loss: 0.2848, Val   Acc: 0.9184
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 99
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.2946, Train Acc: 0.9157
+Val   Loss: 0.2836, Val   Acc: 0.9188
+Train Time: 00:00:02
+Test  Time: 00:00:00
+----------------------------------------
+Epoch: 100
+Dataset: MNIST
+Batch size: 128
+Train Loss: 0.2935, Train Acc: 0.9160
+Val   Loss: 0.2825, Val   Acc: 0.9190
+Train Time: 00:00:01
+Test  Time: 00:00:00
+----------------------------------------

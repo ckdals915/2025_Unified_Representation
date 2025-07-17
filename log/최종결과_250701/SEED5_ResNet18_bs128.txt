@@ -1,0 +1,800 @@
+Epoch: 1
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 4.0627, Train Acc: 0.0858
+Val   Loss: 3.6235, Val   Acc: 0.1430
+Train Time: 00:00:17
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 2
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 3.6733, Train Acc: 0.1428
+Val   Loss: 3.3637, Val   Acc: 0.1924
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 3
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 3.4885, Train Acc: 0.1733
+Val   Loss: 3.2226, Val   Acc: 0.2136
+Train Time: 00:00:16
+Test  Time: 00:00:03
+----------------------------------------
+Epoch: 4
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 3.3626, Train Acc: 0.1958
+Val   Loss: 3.0236, Val   Acc: 0.2528
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 5
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 3.2471, Train Acc: 0.2161
+Val   Loss: 2.9588, Val   Acc: 0.2695
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 6
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 3.1491, Train Acc: 0.2342
+Val   Loss: 2.8489, Val   Acc: 0.2857
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 7
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 3.0806, Train Acc: 0.2453
+Val   Loss: 2.7129, Val   Acc: 0.3191
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 8
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.9955, Train Acc: 0.2638
+Val   Loss: 2.7303, Val   Acc: 0.3130
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 9
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.9342, Train Acc: 0.2743
+Val   Loss: 2.6012, Val   Acc: 0.3369
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 10
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.8781, Train Acc: 0.2852
+Val   Loss: 2.6162, Val   Acc: 0.3415
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 11
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.8220, Train Acc: 0.2966
+Val   Loss: 2.5278, Val   Acc: 0.3645
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 12
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.7790, Train Acc: 0.3054
+Val   Loss: 2.5222, Val   Acc: 0.3593
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 13
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.7276, Train Acc: 0.3163
+Val   Loss: 2.4503, Val   Acc: 0.3763
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 14
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.6811, Train Acc: 0.3243
+Val   Loss: 2.4117, Val   Acc: 0.3851
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 15
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.6370, Train Acc: 0.3328
+Val   Loss: 2.4040, Val   Acc: 0.3835
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 16
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.6091, Train Acc: 0.3410
+Val   Loss: 2.3941, Val   Acc: 0.3894
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 17
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.5696, Train Acc: 0.3472
+Val   Loss: 2.3035, Val   Acc: 0.4098
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 18
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.5273, Train Acc: 0.3575
+Val   Loss: 2.4286, Val   Acc: 0.3855
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 19
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.4968, Train Acc: 0.3624
+Val   Loss: 2.3865, Val   Acc: 0.3987
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 20
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.4700, Train Acc: 0.3711
+Val   Loss: 2.3001, Val   Acc: 0.4119
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 21
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.4429, Train Acc: 0.3777
+Val   Loss: 2.2331, Val   Acc: 0.4203
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 22
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.4101, Train Acc: 0.3796
+Val   Loss: 2.2870, Val   Acc: 0.4163
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 23
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.3945, Train Acc: 0.3862
+Val   Loss: 2.2870, Val   Acc: 0.4203
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 24
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.3584, Train Acc: 0.3947
+Val   Loss: 2.2399, Val   Acc: 0.4265
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 25
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.3430, Train Acc: 0.3976
+Val   Loss: 2.1267, Val   Acc: 0.4464
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 26
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.2987, Train Acc: 0.4075
+Val   Loss: 2.2328, Val   Acc: 0.4386
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 27
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.2851, Train Acc: 0.4072
+Val   Loss: 2.1540, Val   Acc: 0.4543
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 28
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.2655, Train Acc: 0.4110
+Val   Loss: 2.1454, Val   Acc: 0.4497
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 29
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.2399, Train Acc: 0.4199
+Val   Loss: 2.1210, Val   Acc: 0.4550
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 30
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.2236, Train Acc: 0.4250
+Val   Loss: 2.0804, Val   Acc: 0.4621
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 31
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.2003, Train Acc: 0.4270
+Val   Loss: 2.1432, Val   Acc: 0.4507
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 32
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.1905, Train Acc: 0.4296
+Val   Loss: 2.2110, Val   Acc: 0.4406
+Train Time: 00:00:17
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 33
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.1640, Train Acc: 0.4350
+Val   Loss: 2.0242, Val   Acc: 0.4736
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 34
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.1459, Train Acc: 0.4415
+Val   Loss: 2.0625, Val   Acc: 0.4737
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 35
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.1274, Train Acc: 0.4437
+Val   Loss: 2.1341, Val   Acc: 0.4647
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 36
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.1140, Train Acc: 0.4491
+Val   Loss: 2.0221, Val   Acc: 0.4752
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 37
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.0985, Train Acc: 0.4508
+Val   Loss: 2.0315, Val   Acc: 0.4780
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 38
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.0745, Train Acc: 0.4553
+Val   Loss: 2.0663, Val   Acc: 0.4717
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 39
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.0585, Train Acc: 0.4589
+Val   Loss: 2.0054, Val   Acc: 0.4813
+Train Time: 00:00:17
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 40
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.0583, Train Acc: 0.4606
+Val   Loss: 2.0561, Val   Acc: 0.4754
+Train Time: 00:00:17
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 41
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.0275, Train Acc: 0.4680
+Val   Loss: 2.0440, Val   Acc: 0.4775
+Train Time: 00:00:16
+Test  Time: 00:00:03
+----------------------------------------
+Epoch: 42
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.0248, Train Acc: 0.4666
+Val   Loss: 2.0732, Val   Acc: 0.4761
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 43
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 2.0074, Train Acc: 0.4733
+Val   Loss: 1.9693, Val   Acc: 0.4861
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 44
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.9875, Train Acc: 0.4765
+Val   Loss: 2.0068, Val   Acc: 0.4808
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 45
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.9877, Train Acc: 0.4791
+Val   Loss: 2.0919, Val   Acc: 0.4713
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 46
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.9745, Train Acc: 0.4811
+Val   Loss: 1.9675, Val   Acc: 0.4926
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 47
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.9475, Train Acc: 0.4853
+Val   Loss: 1.9883, Val   Acc: 0.4934
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 48
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.9354, Train Acc: 0.4919
+Val   Loss: 1.9505, Val   Acc: 0.5043
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 49
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.9357, Train Acc: 0.4887
+Val   Loss: 1.9401, Val   Acc: 0.5031
+Train Time: 00:00:17
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 50
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.9317, Train Acc: 0.4898
+Val   Loss: 1.9631, Val   Acc: 0.4949
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 51
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.9028, Train Acc: 0.4981
+Val   Loss: 2.0060, Val   Acc: 0.4889
+Train Time: 00:00:16
+Test  Time: 00:00:03
+----------------------------------------
+Epoch: 52
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.9050, Train Acc: 0.4973
+Val   Loss: 1.9443, Val   Acc: 0.5020
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 53
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.8896, Train Acc: 0.5001
+Val   Loss: 1.9211, Val   Acc: 0.4996
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 54
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.8710, Train Acc: 0.5049
+Val   Loss: 2.0108, Val   Acc: 0.4850
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 55
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.8763, Train Acc: 0.5032
+Val   Loss: 2.0103, Val   Acc: 0.4874
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 56
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.8646, Train Acc: 0.5060
+Val   Loss: 2.0903, Val   Acc: 0.4800
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 57
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.8531, Train Acc: 0.5085
+Val   Loss: 1.9278, Val   Acc: 0.5016
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 58
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.8517, Train Acc: 0.5106
+Val   Loss: 1.9459, Val   Acc: 0.5063
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 59
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.8317, Train Acc: 0.5156
+Val   Loss: 1.9884, Val   Acc: 0.4893
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 60
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.8349, Train Acc: 0.5121
+Val   Loss: 1.9428, Val   Acc: 0.5033
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 61
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.6045, Train Acc: 0.5773
+Val   Loss: 1.7131, Val   Acc: 0.5525
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 62
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.5113, Train Acc: 0.6013
+Val   Loss: 1.7055, Val   Acc: 0.5558
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 63
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.4908, Train Acc: 0.6023
+Val   Loss: 1.7035, Val   Acc: 0.5597
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 64
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.4638, Train Acc: 0.6096
+Val   Loss: 1.7253, Val   Acc: 0.5569
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 65
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.4504, Train Acc: 0.6143
+Val   Loss: 1.7169, Val   Acc: 0.5585
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 66
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.4294, Train Acc: 0.6205
+Val   Loss: 1.7368, Val   Acc: 0.5570
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 67
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.4182, Train Acc: 0.6248
+Val   Loss: 1.7342, Val   Acc: 0.5576
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 68
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.4091, Train Acc: 0.6233
+Val   Loss: 1.7641, Val   Acc: 0.5555
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 69
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.4058, Train Acc: 0.6252
+Val   Loss: 1.7444, Val   Acc: 0.5601
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 70
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.3835, Train Acc: 0.6316
+Val   Loss: 1.7689, Val   Acc: 0.5567
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 71
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.3724, Train Acc: 0.6337
+Val   Loss: 1.7463, Val   Acc: 0.5621
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 72
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.3652, Train Acc: 0.6358
+Val   Loss: 1.7654, Val   Acc: 0.5573
+Train Time: 00:00:17
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 73
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.3520, Train Acc: 0.6415
+Val   Loss: 1.8014, Val   Acc: 0.5532
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 74
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.3576, Train Acc: 0.6418
+Val   Loss: 1.7814, Val   Acc: 0.5608
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 75
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.3459, Train Acc: 0.6401
+Val   Loss: 1.7863, Val   Acc: 0.5574
+Train Time: 00:00:17
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 76
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.3312, Train Acc: 0.6476
+Val   Loss: 1.8167, Val   Acc: 0.5500
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 77
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.3287, Train Acc: 0.6465
+Val   Loss: 1.8166, Val   Acc: 0.5530
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 78
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.3218, Train Acc: 0.6497
+Val   Loss: 1.8319, Val   Acc: 0.5522
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 79
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.3162, Train Acc: 0.6498
+Val   Loss: 1.8286, Val   Acc: 0.5514
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 80
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.3030, Train Acc: 0.6521
+Val   Loss: 1.8697, Val   Acc: 0.5512
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 81
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.3033, Train Acc: 0.6530
+Val   Loss: 1.8364, Val   Acc: 0.5544
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 82
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.2900, Train Acc: 0.6560
+Val   Loss: 1.8281, Val   Acc: 0.5562
+Train Time: 00:00:16
+Test  Time: 00:00:03
+----------------------------------------
+Epoch: 83
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.2939, Train Acc: 0.6552
+Val   Loss: 1.8166, Val   Acc: 0.5601
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 84
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.2874, Train Acc: 0.6568
+Val   Loss: 1.8239, Val   Acc: 0.5591
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 85
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.2719, Train Acc: 0.6622
+Val   Loss: 1.8479, Val   Acc: 0.5504
+Train Time: 00:00:17
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 86
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.2771, Train Acc: 0.6607
+Val   Loss: 1.8762, Val   Acc: 0.5512
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 87
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.2635, Train Acc: 0.6646
+Val   Loss: 1.8852, Val   Acc: 0.5520
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 88
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.2594, Train Acc: 0.6636
+Val   Loss: 1.8850, Val   Acc: 0.5501
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 89
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.2542, Train Acc: 0.6662
+Val   Loss: 1.9066, Val   Acc: 0.5480
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 90
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.2587, Train Acc: 0.6664
+Val   Loss: 1.8573, Val   Acc: 0.5549
+Train Time: 00:00:17
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 91
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.2386, Train Acc: 0.6718
+Val   Loss: 1.8802, Val   Acc: 0.5503
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 92
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.2444, Train Acc: 0.6707
+Val   Loss: 1.8932, Val   Acc: 0.5509
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 93
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.2225, Train Acc: 0.6732
+Val   Loss: 1.8769, Val   Acc: 0.5538
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 94
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.2237, Train Acc: 0.6760
+Val   Loss: 1.9158, Val   Acc: 0.5524
+Train Time: 00:00:16
+Test  Time: 00:00:01
+----------------------------------------
+Epoch: 95
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.2262, Train Acc: 0.6742
+Val   Loss: 1.9214, Val   Acc: 0.5534
+Train Time: 00:00:17
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 96
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.2153, Train Acc: 0.6778
+Val   Loss: 1.9351, Val   Acc: 0.5446
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 97
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.2277, Train Acc: 0.6753
+Val   Loss: 1.9360, Val   Acc: 0.5464
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 98
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.2029, Train Acc: 0.6801
+Val   Loss: 1.9391, Val   Acc: 0.5466
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 99
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.2170, Train Acc: 0.6785
+Val   Loss: 1.9461, Val   Acc: 0.5506
+Train Time: 00:00:15
+Test  Time: 00:00:02
+----------------------------------------
+Epoch: 100
+Dataset: CIFAR100
+Batch size: 128
+Train Loss: 1.2135, Train Acc: 0.6804
+Val   Loss: 1.9384, Val   Acc: 0.5466
+Train Time: 00:00:16
+Test  Time: 00:00:02
+----------------------------------------
