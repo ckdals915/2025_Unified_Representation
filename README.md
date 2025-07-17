@@ -224,28 +224,8 @@ $ python -m CIFAR100_ViT_Train
 
 
 **Unified Representation Model Accuracy Result**
+![](https://github.com/user-attachments/assets/68c3ccb7-b460-45d6-bfdf-eec3a8b171de)
 
-
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/68c3ccb7-b460-45d6-bfdf-eec3a8b171de"
-       style="width:400px; height:auto;"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/f0c912d0-3efd-4e23-a338-b873c404b38f"
-       style="width:400px; height:auto;"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/26d62fb4-5e88-4ad8-aa4e-8b336b73865c"
-       style="width:400px; height:auto;"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/73f9d495-15f1-47ac-a8e0-059c61046851"
-       style="width:400px; height:auto;"/>
-</div>
 
 #### 5.1.3 GPU Memory & Inference Time Analysis
 
