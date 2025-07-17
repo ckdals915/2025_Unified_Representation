@@ -231,8 +231,7 @@ $ python -m CIFAR100_ViT_Train
 
 ![](https://github.com/user-attachments/assets/26d62fb4-5e88-4ad8-aa4e-8b336b73865c)
 
-![](https://github.com/user-attachments/assets/46af5976-ea3d-4a72-a3de-06c44b515d24)
-
+<img src="https://github.com/user-attachments/assets/46af5976-ea3d-4a72-a3de-06c44b515d24" alt="설명" width="300" style="height: auto;" />
 
 
 #### 5.1.3 GPU Memory & Inference Time Analysis
