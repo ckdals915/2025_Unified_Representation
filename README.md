@@ -128,7 +128,7 @@ To validate the unified representation of DNN components, we verified the equiva
 
 #### 5.1.1 Experiment Setup
 
-* 10,000 random samples ($x_i \sim \mathcal{N}(0,1)$)
+* 10,000 random samples ($$x_i \sim \mathcal{N}(0,1)$$)
 
 * Use identical model parameter and hyper parameter
 
