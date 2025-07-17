@@ -243,7 +243,7 @@ $ python -m CIFAR100_ViT_Train
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7ee40682-de2b-4191-9ec7-82411044fb36"
+  <img src="https://github.com/user-attachments/assets/f9550802-6be8-4e51-af8e-cbbecdda7ed4"
        style="width:400px; height:auto;"/>
 </div>
 
