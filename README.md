@@ -169,9 +169,11 @@ $ python -m modules.MultiHeadSelfAttentionAsGNN
 
 **Unified Representation Validation Result**
 
-![](https://github.com/user-attachments/assets/eaebc0dc-fd3d-437b-9885-df0b22bb2774)
 
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/eaebc0dc-fd3d-437b-9885-df0b22bb2774"
+       style="width:500px; height:auto;" />
+</div>
 
 ### 5.2 Training Unified Representation-based Model
 
