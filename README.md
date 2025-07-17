@@ -73,7 +73,7 @@ conda list
 
 ```bash
 SOFTWARE
-├─MNIST_MLP_Train.py					   # Train MLP/MLPAsGNN Model for MNIST
+├─MNIST_MLP_Train.py &nbsp;# Train MLP/MLPAsGNN Model for MNIST
 ├─CWRU_1DCNN_Train.py					# Train 1DCNN/1DCNNAsGNN Model for CWRU
 ├─CIFAR100_VGG11_Train.py				# Train VGG11/VGG11AsGNN Model for CIFAR100
 ├─CIFAR100_ResNet18_Train.py			# Train ResNet18/ResNet18AsGNN Model for CIFAR100
