@@ -242,6 +242,11 @@ $ python -m CIFAR100_ViT_Train
        style="width:400px; height:auto;"/>
 </div>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7ee40682-de2b-4191-9ec7-82411044fb36"
+       style="width:400px; height:auto;"/>
+</div>
+
 #### 5.1.3 GPU Memory & Inference Time Analysis
 
 ##### 0) Environment Activation
