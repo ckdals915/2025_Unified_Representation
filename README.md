@@ -109,13 +109,12 @@ SOFTWARE
 │
 ├─checkpoint                                      # Checkpoint Models
 │  │  SEED0_CNN1DCWRUAsGNN_CWRU_lr5e-05_best.pth
-│  │  ...
-│  └─최종결과_250701
+│  └─ ...
 │
 └─log                                             # Log Train Result(*.txt)
    │  SEED0_MLPAsGNNMNIST_bs128.txt 
-   │  ...
-   └─ 최종결과_250701
+   └─ ...
+   
 ```
 
 
@@ -139,7 +138,7 @@ To validate the unified representation of DNN components, we verified the equiva
 ##### 0) Environment Activation
 
 ```bash
-$ cd {Local_Path}\2025_Unified_Representation\SOFTWARE
+$ cd {Local_Path}\2025_Unified_Representation
 $ conda activate PyG_py39
 ```
 
@@ -189,7 +188,7 @@ We designed an unified representation-based model. Comparative performance analy
 ##### 0) Environment Activation
 
 ```bash
-$ cd {Local_Path}\2025_Unified_Representation\SOFTWARE
+$ cd {Local_Path}\2025_Unified_Representation
 $ conda activate PyG_py39
 ```
 
@@ -238,7 +237,7 @@ $ python -m CIFAR100_ViT_Train
 ##### 0) Environment Activation
 
 ```bash
-$ cd {Local_Path}\2025_Unified_Representation\SOFTWARE
+$ cd {Local_Path}\2025_Unified_Representation
 $ conda activate PyG_py39
 ```
 
