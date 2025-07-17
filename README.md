@@ -233,7 +233,9 @@ $ python -m CIFAR100_ViT_Train
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/46af5976-ea3d-4a72-a3de-06c44b515d24" width="300" height="200" alt="설명 텍스트" />
+  <img src="https://github.com/user-attachments/assets/46af5976-ea3d-4a72-a3de-06c44b515d24"
+       style="width:600px; height:auto;"
+       alt="설명 텍스트" />
 </div>
 
 #### 5.1.3 GPU Memory & Inference Time Analysis
