@@ -138,7 +138,7 @@ To validate the unified representation of DNN components, we verified the equiva
 ##### 0) Environment Activation
 
 ```bash
-$ cd {Local_Path}\2025_Unified_Representation\SOFTWARE
+$ cd {Local_Path}\2025_Unified_Representation
 $ conda activate PyG_py39
 ```
 
@@ -188,7 +188,7 @@ We designed an unified representation-based model. Comparative performance analy
 ##### 0) Environment Activation
 
 ```bash
-$ cd {Local_Path}\2025_Unified_Representation\SOFTWARE
+$ cd {Local_Path}\2025_Unified_Representation
 $ conda activate PyG_py39
 ```
 
@@ -237,7 +237,7 @@ $ python -m CIFAR100_ViT_Train
 ##### 0) Environment Activation
 
 ```bash
-$ cd {Local_Path}\2025_Unified_Representation\SOFTWARE
+$ cd {Local_Path}\2025_Unified_Representation
 $ conda activate PyG_py39
 ```
 
