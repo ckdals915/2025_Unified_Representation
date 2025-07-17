@@ -109,13 +109,12 @@ SOFTWARE
 │
 ├─checkpoint                                      # Checkpoint Models
 │  │  SEED0_CNN1DCWRUAsGNN_CWRU_lr5e-05_best.pth
-│  │  ...
-│  └─최종결과_250701
+│  └─ ...
 │
 └─log                                             # Log Train Result(*.txt)
    │  SEED0_MLPAsGNNMNIST_bs128.txt 
-   │  ...
-   └─ 최종결과_250701
+   └─ ...
+   
 ```
 
 
