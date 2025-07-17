@@ -50,7 +50,7 @@ conda create -n PyG_py39 python=3.9.21
 # Activate myEnv
 conda activate PyG_py39
 
-# Install Numpy 1.26.4
+# Install Numpy, OpenCV
 conda install numpy==1.26.4
 pip install opencv-python==4.11.0.86
 
