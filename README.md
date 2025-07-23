@@ -30,9 +30,9 @@ This study proposes an unified representation that integrates the components of 
 ### Software
 
 * Python 3.9.21
-* CUDA == 11.8
-* PyTorch == 2.1.2
-* PyTorch Geometric == 2.5.3
+* CUDA 11.8
+* PyTorch 2.1.2
+* PyTorch Geometric 2.5.3
 
 
 
